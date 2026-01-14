@@ -1,0 +1,10 @@
+{
+    "name": "zzz-null-mod",
+    "version": "0.4.20",
+    "title": "Null Mod",
+    "author": "eugenekay",
+    "factorio_version": "2.0",
+    "space_travel_required": true,
+    "description": "Null Mod to test Mod Portal behavior",
+    "dependencies": ["base >= 2.0.7"]
+}
