@@ -1,16 +1,11 @@
 {
   "name": "FART",
-  "version": "5.0.0",
+  "version": "5.1.0",
+  "title": "Fully Automated Rail Layer (FART) - Factorio 2.0+",
+  "author": "szentigrad3 (original by Choumiko + EugeneKay)",
+  "contact": "https://github.com/szentigrad3/FARL",
+  "homepage": "https://github.com/szentigrad3/FARL",
   "factorio_version": "2.0",
-  "title": "Fully Automated Rail Train",
-  "author": "EugeneKay",
-  "homepage": "https://github.com/Choumiko/FARL",
-  "contact": "",
-  "description": "Fully Automated Rail Train",
-  "dependencies": [
-    "base >= 2.0.69"
-  ],
-  "package":{
-    "ignore":[ "*.zip", "*.xcf" ]
-  }
+  "dependencies": ["base >= 2.0.69"],
+  "description": "Fully automated rail layer. Now with elevated rails support coming soon. Fork of FARL updated for 2.0+"
 }
